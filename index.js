@@ -54,14 +54,6 @@ const getPackageList = options => {
 };
 
 const modulesToIgnore = [
-  "@app/..",
-  "@app/**",
-  "@hooks/**",
-  "@lib/**",
-  "@misc/**",
-  "@assets/**",
-  "@webapp/**",
-  "@hooks/**",
   "@modules/**",
   "@utilities/**"
 ];
